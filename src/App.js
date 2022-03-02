@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <ItemListConatainer nombre="Daniel" apellido="Hernandez" />
+      <ItemListConatainer nombre="Daniel" apellido="Hernández" />
       <Footer />
     </>
   );
