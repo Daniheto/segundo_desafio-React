@@ -1,12 +1,12 @@
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import Main from "./Components/Main";
+import ItemListConatainer from "./Components/ItemListConatainer";
 
 function App() {
   return (
     <>
       <Header />
-      <Main />
+      <ItemListConatainer nombre="Daniel" apellido="Hernandez" />
       <Footer />
     </>
   );
